@@ -1,4 +1,5 @@
 ---
+layout: informative
 title: "Welcome to my blog - collection"
 ---
 
