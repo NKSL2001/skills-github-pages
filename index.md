@@ -12,7 +12,7 @@ Done!
 <ul>
   {% for author in site.informative %}
     <li>
-      <h2><a href="{{ author.url }}">{{ author.title }}</a></h2>
+      <h2><a href="{{ author.url | relative_url }}">{{ author.title }}</a></h2>
       <p>{{ author.content | markdownify }}</p>
     </li>
   {% endfor %}
