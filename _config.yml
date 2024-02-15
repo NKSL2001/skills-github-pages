@@ -2,8 +2,7 @@ theme: minima
 title: My Personal Blog
 author: NKSL2001
 description: A site to learn GitHub Jekyll!
-url: https://nksl2001.github.io
-baseurl: /skills-github-pages
+url: https://nksl2001.github.io/skills-github-pages # hack: include repo name into all generated url
 collections:
   informative:
     output: true
