@@ -2,3 +2,5 @@ theme: minima
 title: My Personal Blog
 author: NKSL2001
 description: A site to learn GitHub Jekyll!
+collections:
+  - collection
