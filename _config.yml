@@ -2,6 +2,7 @@ theme: minima
 title: My Personal Blog
 author: NKSL2001
 description: A site to learn GitHub Jekyll!
+basewebsite: /skills-github-pages
 collections:
   informative:
     output: true
